@@ -294,5 +294,5 @@ class Demo
 
 ---
 
-![IT小圈儿](https://ntaste.github.io/image/qr.jpg)
+![公众号](https://xinliangcoder.github.io/image/qr.jpg)
 
